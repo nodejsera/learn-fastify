@@ -1,0 +1,23 @@
+{
+  "name": "learn-fastify",
+  "version": "1.0.0",
+  "description": "Learning Fastify from scratch",
+  "main": "001-simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejsera/learn-fastify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejsera/learn-fastify/issues"
+  },
+  "homepage": "https://github.com/nodejsera/learn-fastify#readme",
+  "dependencies": {
+    "fastify": "^3.8.0"
+  }
+}
